@@ -1,8 +1,8 @@
 - 👋 Hi, I’m daidai
 - 👀 I’m interested in Beauty
-- 🌱 I’m currently learning vue3 vite 
-- 💞️ I’m looking to collaborate on Get help along the way
-- 📫 How to reach me github
+- 🌱 I’m currently learning vue3,vite,js.
+- 💞️ I wish I had someone to guide me on my way of learning
+- 📫 I can be reached via github
 
 <!---
 daidaibg/daidaibg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
