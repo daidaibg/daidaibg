@@ -1,5 +1,5 @@
 - 👋 Hi, I’m daidai
-- 👀 I’m interested in Beauty
+- 👀 I'm interested in beautiful women
 - 🌱 I’m currently learning vue3,vite,js.
 - 💞️ I wish I had someone to guide me on my way of learning
 - 📫 I can be reached via github
