@@ -1,8 +1,8 @@
-- 👋 Hi, I’m daidai
-- 👀 I'm interested in beautiful women
+- 👋 Hi, I’m daidai.
+- 👀 I'm interested in pet animal.
 - 🌱 I’m currently learning vue3,vite,js.
-- 💞️ I wish I had someone to guide me on my way of learning
-- 📫 I can be reached via github
+- 💞️ I wish I had someone to guide me on my way of learning.
+- 📫 I can be reached via github.
 
 <!---
 daidaibg/daidaibg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
